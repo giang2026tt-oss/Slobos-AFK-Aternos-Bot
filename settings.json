@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "binpro1239999.aternos.me:58164",
+    "port": 58164,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Son",
+        "Trường Giang Sigma aura"
       ]
     },
     "chat-log": true,
